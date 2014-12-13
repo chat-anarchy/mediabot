@@ -1,0 +1,34 @@
+{
+  "name": "chat-anarchy-mediabot",
+  "version": "1.0.0",
+  "description": "A chat-anarchy bot to embed rich media.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barberboy/chat-anarchy-mediabot"
+  },
+  "main": "mediabot.js",
+  "dependencies": {
+    "webremix": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket-io",
+    "socket.io",
+    "chat",
+    "anarchy",
+    "chat-anarchy",
+    "media",
+    "bot"
+  ],
+  "author": {
+    "name": "Benjamin Barber"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barberboy/chat-anarchy-mediabot/issues"
+  },
+  "homepage": "https://github.com/barberboy/chat-anarchy-mediabot"
+}
